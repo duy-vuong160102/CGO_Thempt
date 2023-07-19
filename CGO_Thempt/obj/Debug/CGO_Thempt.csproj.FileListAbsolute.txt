@@ -1,0 +1,8 @@
+D:\GitHub\Project\BTVN\CGO_Thempt\CGO_Thempt\bin\Debug\CGO_Thempt.exe.config
+D:\GitHub\Project\BTVN\CGO_Thempt\CGO_Thempt\bin\Debug\CGO_Thempt.exe
+D:\GitHub\Project\BTVN\CGO_Thempt\CGO_Thempt\bin\Debug\CGO_Thempt.pdb
+D:\GitHub\Project\BTVN\CGO_Thempt\CGO_Thempt\obj\Debug\CGO_Thempt.csproj.AssemblyReference.cache
+D:\GitHub\Project\BTVN\CGO_Thempt\CGO_Thempt\obj\Debug\CGO_Thempt.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Project\BTVN\CGO_Thempt\CGO_Thempt\obj\Debug\CGO_Thempt.csproj.CoreCompileInputs.cache
+D:\GitHub\Project\BTVN\CGO_Thempt\CGO_Thempt\obj\Debug\CGO_Thempt.exe
+D:\GitHub\Project\BTVN\CGO_Thempt\CGO_Thempt\obj\Debug\CGO_Thempt.pdb
